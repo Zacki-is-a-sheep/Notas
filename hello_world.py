@@ -25,3 +25,5 @@ mi_número = 9 #Es un número, no un texto asi que NO ''
 print(mi_texto, mi_número) #Texto random 9
 # print(mi_texto + mi_número) variables no se suman así, daría can only concatenate str (not "int") to str
 print('Mi número favorito es:', mi_número)
+
+#ya
