@@ -59,3 +59,5 @@ print('rozar' < 'rotar') #z por su posicion es mayor que t, asi que es falso
 print(not 3 == 5) # 3 no es igual a 5 pero gracias a not, da respuesta a la inversa
 # el or como si ve un true, es true entonces
 print ('true' and 'true')
+
+#fin
