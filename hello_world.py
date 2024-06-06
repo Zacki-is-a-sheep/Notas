@@ -4,7 +4,10 @@ print('Hola Mundo') #pedirle a la consola que imprima lo que está en comillas
 
 # Tipos de datos
 
-print(type('inserte texto')) #str es palabras
+# Esto imprimirá <class 'str'>, 
+# lo que indica que el tipo de dato es una cadena (string) en Python.
+print(type('inserte texto'))
+
 print(type(9)) #int es números enteros 
 print(type(4.5)) #float es números decimales
 #en núm no hay que poner '' o si no lo marcará como str 
